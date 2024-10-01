@@ -8,6 +8,7 @@ def summa_n(n):
 
 
 n = int(input('Введите число: '))
+summa = summa_n(n)
 
-print(f'Сумма от 1 до {n} = {summa_n(n)}')
-print(f'Сумма от 1 до {summa_n(n)} = {summa_n(summa_n(n))}')
+print(f'Сумма от 1 до {n} = {summa}')
+print(f'Сумма от 1 до {summa} = {summa_n(summa)}')
