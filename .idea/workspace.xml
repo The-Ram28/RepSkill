@@ -4,12 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad3af67b-a40c-47ac-ada8-451331c7dcba" name="Changes" comment="Add System info">
-      <change afterPath="$PROJECT_DIR$/years.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/монетка-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/наименьший_делитель.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/сумма_и_разность.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sum of numbers_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sum of numbers_2.py" afterDir="false" />
+    <list default="true" id="ad3af67b-a40c-47ac-ada8-451331c7dcba" name="Changes" comment="Решены итоговые задачи раздела 1 части 2 курса">
+      <change afterPath="$PROJECT_DIR$/Google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_redactor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Анализ_слова2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Видеокарты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Кино.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Обратный_анализ_чётных_чисел.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Собочьи_бега.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Сортировка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Соседи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Турнир.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/бегущие_цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/контейнеры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/кратность.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/таблица_степеней.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/улучшенная_лингвиситка.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +57,12 @@
     &quot;accountId&quot;: &quot;777a6cbf-eed9-4979-865f-c71cc148973f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Собочьи_бега.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,15 +77,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Google.executor": "Run",
     "Python.Sum of numbers_2.executor": "Run",
+    "Python.calcolator_upgrade.executor": "Run",
+    "Python.control.executor": "Run",
     "Python.main.executor": "Run",
     "Python.numeral_count.executor": "Run",
+    "Python.text_redactor.executor": "Run",
+    "Python.train.executor": "Run",
     "Python.years.executor": "Run",
+    "Python.Видеокарты.executor": "Run",
+    "Python.Кино.executor": "Run",
+    "Python.Обратный_анализ_чётных_чисел.executor": "Run",
+    "Python.Сортировка.executor": "Run",
+    "Python.Соседи.executor": "Run",
+    "Python.Турнир.executor": "Run",
+    "Python.бегущие_цифры.executor": "Run",
+    "Python.контейнеры.executor": "Run",
+    "Python.кратность.executor": "Run",
     "Python.монетка-2.executor": "Run",
     "Python.наименьший_делитель.executor": "Run",
     "Python.сумма_и_разность.executor": "Run",
+    "Python.таблица_степеней.executor": "Run",
+    "Python.улучшенная_лингвиситка.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +112,132 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Python.Обратный_анализ_чётных_чисел">
+    <configuration name="Сортировка" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RepSkill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Сортировка.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="бегущие_цифры" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RepSkill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/бегущие_цифры.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Обратный_анализ_чётных_чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RepSkill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Обратный_анализ_чётных_чисел.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calcolator_upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RepSkill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calcolator_upgrade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RepSkill" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Обратный_анализ_чётных_чисел" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.Сортировка" />
+        <item itemvalue="Python.calcolator_upgrade" />
+        <item itemvalue="Python.бегущие_цифры" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +258,9 @@
       <workItem from="1727718280146" duration="2458000" />
       <workItem from="1727720764892" duration="2916000" />
       <workItem from="1727723708465" duration="651000" />
-      <workItem from="1727804951812" duration="3733000" />
+      <workItem from="1727804951812" duration="4238000" />
+      <workItem from="1727974241960" duration="8386000" />
+      <workItem from="1728118636508" duration="38373000" />
     </task>
     <task id="LOCAL-00001" summary="Add main with hello">
       <option name="closed" value="true" />
@@ -130,7 +294,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727720239198</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Решены итоговые задачи раздела 1 части 2 курса">
+      <option name="closed" value="true" />
+      <created>1727808872890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727808872890</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решены итоговые задачи раздела 1 части 2 курса">
+      <option name="closed" value="true" />
+      <created>1727809059642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727809059642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,15 +331,23 @@
     <MESSAGE value="Add main with hello" />
     <MESSAGE value="remove line" />
     <MESSAGE value="Add System info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add System info" />
+    <MESSAGE value="Решены итоговые задачи раздела 1 части 2 курса" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решены итоговые задачи раздела 1 части 2 курса" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RepSkill$_.coverage" NAME="наименьший_делитель Coverage Results" MODIFIED="1727723630682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$calcolator_upgrade.coverage" NAME="calcolator_upgrade Coverage Results" MODIFIED="1728217891864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$_.coverage" NAME="бегущие_цифры Coverage Results" MODIFIED="1728213610772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$Sum_of_numbers_2.coverage" NAME="Sum of numbers_2 Coverage Results" MODIFIED="1727721545959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$main.coverage" NAME="main Coverage Results" MODIFIED="1727719615134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$numeral_count.coverage" NAME="numeral_count Coverage Results" MODIFIED="1727721803298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RepSkill$years.coverage" NAME="years Coverage Results" MODIFIED="1727808630833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$train.coverage" NAME="train Coverage Results" MODIFIED="1728239007696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$___.coverage" NAME="Обратный_анализ_чётных_чисел Coverage Results" MODIFIED="1728239899185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$text_redactor.coverage" NAME="text_redactor Coverage Results" MODIFIED="1728123398657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$_2.coverage" NAME="монетка-2 Coverage Results" MODIFIED="1727806990539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$Google.coverage" NAME="Google Coverage Results" MODIFIED="1727979475051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$__.coverage" NAME="сумма_и_разность Coverage Results" MODIFIED="1727722748599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$.coverage" NAME="Сортировка Coverage Results" MODIFIED="1728220205581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$years.coverage" NAME="years Coverage Results" MODIFIED="1727808630833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$control.coverage" NAME="control Coverage Results" MODIFIED="1727976697471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
