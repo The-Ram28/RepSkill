@@ -1,20 +1,38 @@
 # Кино
-# программа, в которой пользователь вводит фильм. Если кинокартина есть в перечне,
-# то добавляется в спи-сок любимых. Если её нет, то выводится ошибка. В конце выведите
-# весь список любимых фильмов.
+# Напишите программу, которая позволяет добавлять в свой рейтинг фильмы, удалять их оттуда,
+# а также вставлять на нужное пользователю место.
 
-films = ['Крепкий орешек', 'Назад в будущее', 'Таксист', 'Леон', 'Богемская рапсодия', 'Город грехов', 'Мементо', 'Отступники', 'Деревня']
-your_films = []
-number = int(input('Сколько фильмов хотите добавить? '))
-for _ in range(number):
-    film = input('Введите название фильма: ')
-    count = 0
-    for i in films:
-        if i == film:
-            your_films.append(film)
-            count += 1
-    if count == 0:
-        print(f'Ошибка: фильм {film} у нас нет :(')
-print('Ваш список любимых фильмов:', end=' ')
-for index in your_films:
-    print(index, end=', ')
+def is_film_exist(film, my_list):
+    for i_film in my_list:
+        if i_film == film:
+            return True
+    return False
+
+films = [
+    'Крепкий орешек', 'Назад в будущее', 'Таксист',
+    'Леон', 'Богемская рапсодия', 'Город грехов',
+    'Мементо', 'Отступники', 'Деревня',
+    'Проклятый остров', 'Начало', 'Матрица'
+]
+my_films = []
+while True:
+    print('\nВаш текущий список топ фильмов:', my_films)
+    film = input('Название фильма: ')
+    if is_film_exist(film, films):
+        print('Команды: добавить, вставить, удалить')
+        command = input('Введите команду: ')
+        if command == 'добавить':
+            if is_film_exist(film, my_films):
+                print('Этот фильм уже есть в вашем списке.')
+            else:
+                my_films.append(film)
+        if command == 'удалить':
+            if is_film_exist(film, my_films):
+                my_films.remove(film)
+            else:
+                print('Такого фиильма нет в нашем рейтинге')
+        if command == 'вставить':
+            index = int(input('На какое место: '))
+            my_films.insert(index - 1, film)
+    else:
+        print('Такого фильма нет на сайте')
