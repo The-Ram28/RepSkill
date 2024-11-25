@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad3af67b-a40c-47ac-ada8-451331c7dcba" name="Changes" comment="Решены итоговые задачи 2-го раздела, 2-й части курса">
-      <change afterPath="$PROJECT_DIR$/3.4.2.Олимпиада.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.4.3.Лавка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.5.3.Детали.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.5.3_Уникальное_объединение_списков.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.5.4.Вечеринка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.5.7.Считалка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2.3.Повышение_цен.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.3.3.Отряды.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.7.1.Гласные_буквы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.7.6-7.Двумерный_список_списков.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.3.3.Разделители_символов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.4.1.Шифр_Цезаря_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7.4.Заглавные_буквы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7.5.Пароль.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7.7.IP-adress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7.8.Бегущая_строка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.1.3.Контакты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.3.1.Заказ_фруктов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Пакеты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6.3.Товары.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6.4.Гистограмма_частоты-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6.5.Словарь_синонимов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6.6.Пицца.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.9.2.Универсальная программа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.9.6.Контакты-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.2.3.Поиск_элемента.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.9.2.Поиск_элемента-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.2.1.Иконки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.2.2.Поиск_файла.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.2.Поиск_файлов.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Кино.py" beforeDir="false" afterPath="$PROJECT_DIR$/Кино.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Сортировка.py" beforeDir="false" afterPath="$PROJECT_DIR$/Сортировка.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +53,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/train.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Собочьи_бега.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -80,52 +71,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.3.4.2.Олимпиада.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.3.Лавка.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.3.Детали.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.3.Повышение_цен.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.3.Отряды.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4.7.6-7.Двумерный_список_списков.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Google.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sum of numbers_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calcolator_upgrade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.control.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numeral_count.executor&quot;: &quot;Run&quot;,
-    &quot;Python.text_redactor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;Python.years.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Видеокарты.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Кино.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Обратный_анализ_чётных_чисел.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Пакеты.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Сортировка.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Соседи.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Турнир.executor&quot;: &quot;Run&quot;,
-    &quot;Python.бегущие_цифры.executor&quot;: &quot;Run&quot;,
-    &quot;Python.контейнеры.executor&quot;: &quot;Run&quot;,
-    &quot;Python.кратность.executor&quot;: &quot;Run&quot;,
-    &quot;Python.монетка-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.наименьший_делитель.executor&quot;: &quot;Run&quot;,
-    &quot;Python.сумма_и_разность.executor&quot;: &quot;Run&quot;,
-    &quot;Python.таблица_степеней.executor&quot;: &quot;Run&quot;,
-    &quot;Python.улучшенная_лингвиситка.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3.4.2.Олимпиада.executor": "Run",
+    "Python.3.4.3.Лавка.executor": "Run",
+    "Python.3.5.3.Детали.executor": "Run",
+    "Python.4.2.3.Повышение_цен.executor": "Run",
+    "Python.4.3.3.Отряды.executor": "Debug",
+    "Python.4.7.6-7.Двумерный_список_списков.executor": "Run",
+    "Python.6.6.3.Товары.executor": "Run",
+    "Python.8.2.3.Поиск_элемента.executor": "Run",
+    "Python.9.2.Поиск_файлов.executor": "Run",
+    "Python.Google.executor": "Run",
+    "Python.Sum of numbers_2.executor": "Run",
+    "Python.calcolator_upgrade.executor": "Run",
+    "Python.control.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.numeral_count.executor": "Run",
+    "Python.text_redactor.executor": "Run",
+    "Python.train.executor": "Run",
+    "Python.years.executor": "Run",
+    "Python.Видеокарты.executor": "Run",
+    "Python.Кино.executor": "Run",
+    "Python.Обратный_анализ_чётных_чисел.executor": "Run",
+    "Python.Пакеты.executor": "Run",
+    "Python.Сортировка.executor": "Debug",
+    "Python.Соседи.executor": "Run",
+    "Python.Турнир.executor": "Run",
+    "Python.бегущие_цифры.executor": "Run",
+    "Python.контейнеры.executor": "Run",
+    "Python.кратность.executor": "Run",
+    "Python.монетка-2.executor": "Run",
+    "Python.наименьший_делитель.executor": "Run",
+    "Python.сумма_и_разность.executor": "Run",
+    "Python.таблица_степеней.executor": "Run",
+    "Python.улучшенная_лингвиситка.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.train">
-    <configuration name="Кино" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.6.3.Товары" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RepSkill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Кино.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.6.3.Товары.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.2.3.Повышение_цен" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8.2.3.Поиск_элемента" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RepSkill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +156,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.2.3.Повышение_цен.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.2.3.Поиск_элемента.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.3.3.Отряды" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.2.Поиск_файлов" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RepSkill" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,30 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.3.3.Отряды.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.7.6-7.Двумерный_список_списков" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RepSkill" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.7.6-7.Двумерный_список_списков.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.2.Поиск_файлов.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,10 +237,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.train" />
+        <item itemvalue="Python.9.2.Поиск_файлов" />
+        <item itemvalue="Python.8.2.3.Поиск_элемента" />
+        <item itemvalue="Python.6.6.3.Товары" />
         <item itemvalue="Python.бегущие_цифры" />
-        <item itemvalue="Python.4.7.6-7.Двумерный_список_списков" />
-        <item itemvalue="Python.4.3.3.Отряды" />
-        <item itemvalue="Python.4.2.3.Повышение_цен" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +278,26 @@
       <workItem from="1729323683406" duration="22649000" />
       <workItem from="1729525307132" duration="10668000" />
       <workItem from="1729612239735" duration="8244000" />
-      <workItem from="1730037783420" duration="11805000" />
+      <workItem from="1730037783420" duration="12255000" />
+      <workItem from="1730131172013" duration="8025000" />
+      <workItem from="1730382316717" duration="17726000" />
+      <workItem from="1730622842417" duration="19000" />
+      <workItem from="1730622875352" duration="395000" />
+      <workItem from="1730623861591" duration="67000" />
+      <workItem from="1730623940629" duration="1000" />
+      <workItem from="1730623950092" duration="8000" />
+      <workItem from="1730623979160" duration="2000" />
+      <workItem from="1730624130429" duration="27424000" />
+      <workItem from="1731137163888" duration="3829000" />
+      <workItem from="1731345993601" duration="1756000" />
+      <workItem from="1731755678338" duration="12671000" />
+      <workItem from="1731854531523" duration="9382000" />
+      <workItem from="1732117914058" duration="3487000" />
+      <workItem from="1732196808460" duration="3565000" />
+      <workItem from="1732200415673" duration="779000" />
+      <workItem from="1732360753855" duration="10848000" />
+      <workItem from="1732459042512" duration="4547000" />
+      <workItem from="1732549702758" duration="5902000" />
     </task>
     <task id="LOCAL-00001" summary="Add main with hello">
       <option name="closed" value="true" />
@@ -365,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728240267038</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Решены итоговые задачи 2-го раздела, 2-й части курса">
+      <option name="closed" value="true" />
+      <created>1730106780455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730106780455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,11 +396,6 @@
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/train.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -416,15 +409,18 @@
     <SUITE FILE_PATH="coverage/RepSkill$3_4_2_.coverage" NAME="3.4.2.Олимпиада Coverage Results" MODIFIED="1728580096271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$numeral_count.coverage" NAME="numeral_count Coverage Results" MODIFIED="1727721803298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$___.coverage" NAME="Обратный_анализ_чётных_чисел Coverage Results" MODIFIED="1728239899185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RepSkill$train.coverage" NAME="train Coverage Results" MODIFIED="1730106370256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$train.coverage" NAME="train Coverage Results" MODIFIED="1732555539013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$text_redactor.coverage" NAME="text_redactor Coverage Results" MODIFIED="1728123398657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$4_3_3_.coverage" NAME="4.3.3.Отряды Coverage Results" MODIFIED="1728925126473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$4_7_6_7___.coverage" NAME="4.7.6-7.Двумерный_список_списков Coverage Results" MODIFIED="1729331799421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$8_2_3__.coverage" NAME="8.2.3.Поиск_элемента Coverage Results" MODIFIED="1732372551257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$9_2__.coverage" NAME="9.2.Поиск_файлов Coverage Results" MODIFIED="1732554708723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$_2.coverage" NAME="монетка-2 Coverage Results" MODIFIED="1727806990539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$Google.coverage" NAME="Google Coverage Results" MODIFIED="1727979475051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$__.coverage" NAME="сумма_и_разность Coverage Results" MODIFIED="1727722748599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$.coverage" NAME="Пакеты Coverage Results" MODIFIED="1728577634955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$4_2_3__.coverage" NAME="4.2.3.Повышение_цен Coverage Results" MODIFIED="1728922602670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RepSkill$6_6_3_.coverage" NAME="6.6.3.Товары Coverage Results" MODIFIED="1731138173357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$years.coverage" NAME="years Coverage Results" MODIFIED="1727808630833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RepSkill$control.coverage" NAME="control Coverage Results" MODIFIED="1727976697471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
